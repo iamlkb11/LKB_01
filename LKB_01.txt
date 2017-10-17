@@ -1,0 +1,17 @@
+Steps To Install Node Js and check version of node js and npm :-
+
+
+Step 1. In order to work on Angular we need to install NodeJs and npm.
+Step 2. First we need to check whether nodejs is already installed or not.
+Step 3. To check nodejs already installed we need to open command prompt for windows and terminal for MacOs.
+Step 4. Open Command Prompt type to check nodejs version 
+	node --version
+Step 5. If nodejs is already there it will show the version.
+Step 6. If not than you have to install it online through -
+	https://nodejs.org/en/download/
+
+Step 7. After installing nodejs you have to check for node package manager(npm). It is the samll libraries helps in development.
+Step 8. For npm type
+	npm --version
+Step 9. Npm version shoul be greater than 3. If it is less than 3 than you can do-
+	nmp -g update
